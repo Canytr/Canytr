@@ -1,13 +1,13 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
+</div>
+
 <!--
 **Canytr/Canytr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
-</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
